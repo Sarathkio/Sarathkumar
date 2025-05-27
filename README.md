@@ -2,18 +2,20 @@
 <h1 align="center">🚀 Sarathkumar R | Python Developer | LLM & NLP Specialist</h1>
 
 <h3 align="center">🔹 Python Developer | Machine Learning | NLP | LangChain | LLMs | Web Development 🔹</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarathkio&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=sarathkio&label=Profile%20Views&color=0e75b6&style=flat" alt="sarathkio" />
+</p>
 
 ---
 
-## 📌 About Me   
+## 📌 About Me
 
-I’m **Sarathkumar R**, a passionate **Python Developer** with a focus on **AI, NLP, LLMs**, and **Full-Stack Web Development**.  
-I hold a degree in **Computer Science and Engineering**, and I’m currently working at the **Computational Intelligence Research Foundation**, where I build intelligent systems that bridge research and real-world AI applications.
+🎓 I’m **Sarathkumar R**, a passionate **Python Developer** with expertise in **AI, NLP, LLMs**, and **Full-Stack Web Development**.
 
-I develop smart tools and platforms using **LangChain, OpenAI, and Hugging Face**, and I craft responsive web applications with **HTML, CSS, JavaScript, and Bootstrap**.
+🏢 Currently at the **Computational Intelligence Research Foundation**, I’m on a mission to build AI-driven tools that bridge research and real-world applications.
+
+🧠 I love working with **LangChain, OpenAI, Hugging Face**, and crafting intelligent systems with clean, responsive UIs using **HTML, CSS, JavaScript**, and **Bootstrap**.
 
 ### **🚀 What I’m Currently Doing**
 - 🤖 Building **AI-powered tools** using LLMs, Streamlit, and FastAPI.  
