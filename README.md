@@ -28,12 +28,13 @@ I develop smart tools and platforms using **LangChain, OpenAI, and Hugging Face*
 | **Category**            | **Technologies**                                             |
 |-------------------------|--------------------------------------------------------------|
 | **Programming**         | Python, SQL, JavaScript                                      |
+| **Python Libraries**    | Pandas, NumPy, Matplotlib, Seaborn                           |
 | **Machine Learning**    | TensorFlow, PyTorch, Scikit-Learn                            |
 | **NLP & LLMs**          | LangChain, OpenAI APIs, Hugging Face, Spacy, NLTK            |
 | **Web Development**     | HTML, CSS, Bootstrap, JavaScript                             |
-| **API Development**     | FastAPI, Flask, Postman                                      |
+| **API Development**     | FastAPI, Django, Flask, Postman                              |
 | **MLOps & Deployment**  | GitHub Actions, Docker (Learning), AWS (Learning)            |
-| **Development Tools**   | Git, VS Code, Jupyter Notebook, Linux                        |
+| **Development Tools**   | Git, VS Code,Pycharm,Jupyter Notebook,Excel                  |
 
 ---
 
@@ -62,8 +63,8 @@ I develop smart tools and platforms using **LangChain, OpenAI, and Hugging Face*
 🚀 **[AI Chatbot using LangChain & OpenAI](https://github.com/sarathkio/ai-chatbot-langchain)**  
 🤖 Built a conversational chatbot leveraging LangChain for smart responses.  
 
-🚀 **[NLP Text Processing Toolkit](https://github.com/sarathkio/nlp-text-processing)**  
-📝 Developed a toolkit for **text analysis, sentiment detection, and text summarization**.  
+🚀 **[🚀 Event Management System](https://github.com/sarathkio/Event-management)**  
+📆 Developed a complete system to **manage events, and Schedule, and user interactions using Flask and MySQL.** 
 
 🚀 **[AI-Powered Resume Screener](https://github.com/sarathkio/ai-resume-screener) *(Upcoming Project)***  
 📄 Automating resume screening using **ML & NLP for recruitment processes**.  
