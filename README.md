@@ -39,11 +39,6 @@ I develop smart tools and platforms using **LangChain, OpenAI, and Hugging Face*
 
 ## 📊 My GitHub Journey in AI & ML  
 
-**🔍 Tech Usage Breakdown:**  
-- 🐍 **Python:** 50% – My core language for AI, ML, and backend development  
-- 🌐 **JavaScript:** 20% – Used in frontend interfaces and dynamic web apps  
-- 💡 **Others:** 30% – HTML, CSS, SQL, and auxiliary tools  
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarathkio&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 </p>
